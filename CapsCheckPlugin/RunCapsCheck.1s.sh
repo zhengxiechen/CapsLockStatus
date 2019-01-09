@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CheckCapsLock="$(/Users/acez/Codes/CheckCapsLock)"
+CheckCapsLock="$(/Users/acez/Codes/CapsLockStatus/CheckCapsLock)"
 result="${CheckCapsLock}"
 
 if [ "${result}" = "1" ]; then
